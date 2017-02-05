@@ -1,0 +1,11 @@
+﻿Apache License. Copyright (C) Bobardo Studio - All Rights Reserved.
+Unauthorized publishing the plugin with different name is strictly prohibited.
+This plugin is free and no one has right to sell it to others.
+http://bobardo.com
+http://opensource.org/licenses/Apache-2.0
+
+تمامی حق و حقوق این پلاگین متعلق به استودیو باباردو می‌باشد
+انتشار بدون اجازه پلاگین با نام دیگر ممنوع است
+این پلاگین رایگان است و هیچ کس حق فروش آن به دیگران را ندارد
+
+bobardo.com

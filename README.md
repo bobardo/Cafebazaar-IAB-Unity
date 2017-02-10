@@ -3,6 +3,8 @@ This is an easy to use unity plugin for cafebazaar IAB system.
 
 **برای اطلاعات بیشتر و راهنمای فارسی به [اینجا][1] مراجعه کنید**
 
+**This project is created with Unity 5.4.2**
+
 Setup
 --------
 Open your project in unity, then open the UnityPackage file and click import. In `bobardo IAB` folder drag `com.bobardo IAB` prefab to your scene and drop it. This gameObject will handle IAB system and events. Please note that you should not change its name.

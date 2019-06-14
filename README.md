@@ -25,6 +25,10 @@ And this activity before your application **close** tag.
 android:name="com.bobardo.bazaar.iab.ServiceBillingBazaar$IabActivity"
 android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
 ```
+For Unity 2018 and above, add this line in your proguard settings file.
+```xml
+-keep class com.bobardo.bazaar.iab.** { *; }
+```
 Purchase Security
 --------
 We also provided a sample for [purchase security][2] using cafebazaar developers API.
